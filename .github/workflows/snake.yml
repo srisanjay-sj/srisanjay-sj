@@ -23,7 +23,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
