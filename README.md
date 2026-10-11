@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sri%20Sanjay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sri%20Sanjay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSBS+%40+JCT+College;Building+Full+Stack+%26+AI+Projects;Preparing+for+Placements;Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSBS+%40+JCT+College;Building+Software+%26+AI+Projects;Preparing+for+Placements;Learning+Every+Day" />
 
 <br/>
 
@@ -21,11 +21,11 @@
 ┌──[srisanjay-sj@dev]─[~]
 │
 ├─ NAME       : Sri Sanjay
-├─ CLASS      : Full Stack Developer | AI/ML Enthusiast
+├─ CLASS      : Software Developer | AI/ML Enthusiast
 ├─ EDUCATION  : B.Tech CSBS @ JCT College of Engineering and Technology
 │
 ├─ MISSION    :
-│   ├── 🌐 Full Stack Web Apps
+│   ├── 💻 Software & Web Applications
 │   ├── 🤖 AI-Powered Products
 │   ├── 🧠 DSA & Core CS
 │   └── 🎯 Placement Preparation
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srisanjay-sj&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=39ff14&point=ffffff&area=true" />
+<img src="https://ghchart.rshah.org/00f7ff/srisanjay-sj" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -100,7 +100,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srisanjay-sj&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+![B.Tech](https://img.shields.io/badge/B.Tech-CSBS-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=black)
+![Projects](https://img.shields.io/badge/PROJECTS-6-39FF14?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-GEMINI_POWERED-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MERN](https://img.shields.io/badge/STACK-MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Placement](https://img.shields.io/badge/PLACEMENT_PREP-ACTIVE-FF6B6B?style=for-the-badge)
 
 </div>
 
